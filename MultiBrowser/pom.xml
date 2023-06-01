@@ -71,13 +71,13 @@
         <version>6.9.13.6</version>
         <scope>test</scope>
     </dependency>
-
     <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-edge-driver -->
     <dependency>
         <groupId>org.seleniumhq.selenium</groupId>
         <artifactId>selenium-edge-driver</artifactId>
         <version>4.9.1</version>
     </dependency>
+
 
 
 </dependencies>
