@@ -110,7 +110,7 @@ driver.findElement(By.linkText("Math Calculators")).click();
 
        // Click on Percent Calculators
 
-
+// test
    //    driver.findElement(By.xpath("/html/body/div[3]/div[1]/table[2]/tbody/tr/td/div[3]/a")).click();
 driver.findElement(By.linkText("Percentage Calculator")).click();
 
